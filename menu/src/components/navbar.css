@@ -197,3 +197,84 @@ margin-left: 20px;
        width: 25%;
    margin-left: 20px;
    }
+
+   .texts {
+    
+    width: 100%;
+}
+
+.Dinner-images {
+    display: inline-block;
+   }
+   .Dinner-image {
+       margin: 60px;
+   }
+   .Title {
+       display: block;
+       width: 100%;
+       text-align: center;
+   }
+   .Fried-chicken-text {
+       display: inline-block;
+       text-align: left;
+       width: 33%;
+   }
+   .Spaghetti-text {
+       display: inline-block;
+       text-align: center;
+       width: 33%;
+   }
+   .Steak-text {
+      display: inline-block;
+       text-align: right;
+       width: 25%;
+   margin-left: 20px;
+   }
+
+   .Dessert-images {
+    display: inline-block;
+   }
+   .Dessert-image {
+       margin: 60px;
+   }
+   .Title {
+       display: block;
+       width: 100%;
+       text-align: center;
+   }
+   .Ice-cream-sundae-text {
+       display: inline-block;
+       text-align: left;
+       width: 33%;
+   }
+   .Cookies-text {
+       display: inline-block;
+       text-align: center;
+       width: 33%;
+   }
+   .Chocolate-cake-text {
+      display: inline-block;
+       text-align: right;
+       width: 25%;
+   margin-left: 20px;
+   }
+
+   .hello-text {
+    display: inline-block;
+    text-align: left;
+    width: 75%;  
+}
+.nav-item {
+    height: 80px;
+}
+.breakfasts {
+    height: 80px;
+}
+.breakfasts-links {
+    color: rgb(28, 107, 241);
+    display: flex;
+    align-items: left;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    height: 100%
+}

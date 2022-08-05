@@ -16,14 +16,15 @@ function Navbar() {
         }
     };
 
-    <div> Hello, welcome to my diner!</div>
+    
     useEffect(() => {
         showButton()
     }, [])
     window.addEventListener('resize', showButton)
   return (
     <>
-    <nav className="navbar">
+   
+   <nav className="navbar">
         <div className="navbar-container">
             <Link to="/" className="navbar-logo" onClick={closeMobileMenu}>
             Tiana's Place <i className='fa-solid fa-user-chef'></i>
@@ -51,6 +52,9 @@ function Navbar() {
                 <Link to='/Dessert' className='nav-links' onClick={closeMobileMenu}>
                     Dessert
                 </Link>
+               
+           
+           
             </li>
         </ul>
     

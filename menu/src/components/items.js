@@ -1,8 +1,12 @@
+
+import React from "react";
+
 function Items(){ 
-    
-        
-<div>Welcome to my diner!</div>
-        
-    
+  <div>Hello</div>  
+
+  
+
 };
-export default Items
+
+
+export default Items;
